@@ -14,7 +14,7 @@ int main(){
 	}
 	for(int i=0; i<row; i++){ // in phan tu  
 	for(int j=0; j<col; j++){
-		printf(" %d",i,j,number[i][j]);
+		printf(" %d ",number[i][j]);
 		} 
 		printf("\n");  
 	}
